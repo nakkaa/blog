@@ -1,0 +1,4 @@
+baseURL = "http://blog.7ka.org/"
+languageCode = "ja"
+title = "Project 1429"
+theme = "ananke"
