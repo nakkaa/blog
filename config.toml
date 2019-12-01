@@ -1,4 +1,10 @@
-baseURL = "http://blog.7ka.org/"
+baseURL = "https://blog.7ka.org/"
 languageCode = "ja"
 title = "Project 1429"
 theme = "ananke"
+copyright = "&copy; 2019 nakkaa"
+disqusShortname = "nakkaa"
+rssLimit = "5"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
