@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2019-12-01T20:43:20+09:00
-draft: true
+draft: false
 ---
 
 # Helllo world
