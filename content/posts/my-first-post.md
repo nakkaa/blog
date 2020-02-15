@@ -2,11 +2,9 @@
 title: "My First Post"
 date: 2019-12-01T20:43:20+09:00
 draft: false
+categories: ["雑記"]
+tags: ["方針"]
 ---
-
-# Helllo world
-
-Hugoを使った初めての投稿です。
 
 ## サイトの目的
 

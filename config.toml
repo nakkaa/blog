@@ -5,6 +5,7 @@ theme = "theer"
 copyright = "&copy; 2019 nakkaa"
 disqusShortname = "nakkaa"
 rssLimit = "5"
+uglyurls = true
 
 hasCJKLanguage = true
 summaryLength = 70
@@ -26,3 +27,23 @@ math = true
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/articles/"
+    weight = -110
+
+  [[menu.main]]
+    identifier = "software"
+    name = "Software"
+    url = "/software/"
+    weight = -100
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    #pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
