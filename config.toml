@@ -1,10 +1,28 @@
 baseURL = "https://blog.7ka.org/"
 languageCode = "ja"
 title = "Project 1429"
-theme = "ananke"
+theme = "theer"
 copyright = "&copy; 2019 nakkaa"
 disqusShortname = "nakkaa"
 rssLimit = "5"
 
+hasCJKLanguage = true
+summaryLength = 70
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+shareTo = ["Twitter", "Hatena", "Pocket"]
+showFooterCredits = true
+description = "Describe what your web page is about"
+twitter = "_nakkaa"
+#useIcon = true
+useTwitterCard = true
+math = true
+
+
 [permalinks]
     post = "/:year/:month/:day/:slug/"
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]
