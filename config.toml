@@ -5,7 +5,7 @@ theme = "theer"
 copyright = "&copy; 2019 nakkaa"
 disqusShortname = "nakkaa"
 rssLimit = "5"
-uglyurls = true
+uglyurls = false
 
 hasCJKLanguage = true
 summaryLength = 70

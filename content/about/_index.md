@@ -2,6 +2,7 @@
 title: "About"
 date: 2020-02-15T21:36:28+09:00
 draft: false
+type: "single"
 ---
 
 ## サイトについて
