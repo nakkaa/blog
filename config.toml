@@ -1,8 +1,8 @@
 baseURL = "https://blog.7ka.org/"
 languageCode = "ja"
-title = "Project 1429"
-theme = "theer"
-copyright = "&copy; 2019 nakkaa"
+title = "脱ムチィ育成日誌"
+theme = "hugo-primer"
+copyright = "&copy; 2020 ムチィ"
 disqusShortname = "nakkaa"
 rssLimit = "5"
 uglyurls = false
@@ -29,12 +29,6 @@ math = true
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
 [menu]
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/articles/"
-    weight = -110
 
   [[menu.main]]
     identifier = "software"
