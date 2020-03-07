@@ -4,12 +4,6 @@ author: なっかあ
 type: post
 date: 2015-01-16T13:00:22+00:00
 url: /ubuntu_terminal_vim/
-dsq_thread_id:
-  - 3663831240
-page_type:
-  - default
-update_level:
-  - high
 categories:
   - Linux
 tags:
