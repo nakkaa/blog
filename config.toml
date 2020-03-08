@@ -1,8 +1,8 @@
 baseURL = "https://blog.7ka.org/"
 languageCode = "ja"
-title = "脱ムチィ育成日誌"
+title = "としつーる改"
 theme = "hugo-primer"
-copyright = "&copy; 2020 ムチィ"
+copyright = "&copy; 2020 nakkaa"
 disqusShortname = "nakkaa"
 rssLimit = "5"
 uglyurls = false
@@ -22,8 +22,8 @@ useTwitterCard = true
 math = true
 
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+#[permalinks]
+#    post = "/:year/:month/:day/:slug/"
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":default"]
