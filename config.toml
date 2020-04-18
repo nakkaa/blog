@@ -13,6 +13,8 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsStyle = "monokai"
 
+googleAnalytics = "UA-47272480-1"
+
 [params]
     author = "なっかあ"
     info = "プログラマのような何か"
