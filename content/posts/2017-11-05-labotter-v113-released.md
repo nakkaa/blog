@@ -1,8 +1,8 @@
 ---
 title: らぼったあ Ver1.13をリリース
 author: なっかあ
-type: post
-date: 2017-11-05T14:00:03+00:00
+type: posts
+date: 2017-11-05T14:00:03+09:00
 url: /labotter-v113-released/
 categories:
   - リリース情報

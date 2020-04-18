@@ -1,8 +1,8 @@
 ---
 title: HugoのConfigでわからない項目があったのでまとめた
 author: なっかあ
-type: post
-date: 2020-02-16T10:30:49+00:00
+type: posts
+date: 2020-02-16T10:30:49+09:00
 url: /hugo-config-item/
 categories:
   - コンピュータ

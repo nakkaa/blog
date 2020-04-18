@@ -1,8 +1,8 @@
 ---
 title: iOS12のSiriショートカットアプリで自宅までの経路を作成する
 author: なっかあ
-type: post
-date: 2018-09-19T12:25:06+00:00
+type: posts
+date: 2018-09-19T12:25:06+09:00
 url: /ios12-shortcut-app-home/
 categories:
   - iPhone

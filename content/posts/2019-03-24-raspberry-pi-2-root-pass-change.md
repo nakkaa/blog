@@ -1,8 +1,8 @@
 ---
 title: Raspberry Pi 2 rootパスワード設定やユーザ名の変更をする
 author: なっかあ
-type: post
-date: 2019-03-24T08:29:37+00:00
+type: posts
+date: 2019-03-24T08:29:37+09:00
 url: /raspberry-pi-2-root-pass-change/
 categories:
   - コンピュータ

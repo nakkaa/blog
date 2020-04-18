@@ -1,8 +1,8 @@
 ---
 title: Windows10 Anniversary Update が0xA0000400エラーでインストールできない
 author: なっかあ
-type: post
-date: 2016-08-03T16:51:57+00:00
+type: posts
+date: 2016-08-03T16:51:57+09:00
 url: /windows10-anniversary-update-0xa0000400/
 dsq_thread_id:
   - 5777962583

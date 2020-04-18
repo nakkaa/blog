@@ -1,8 +1,8 @@
 ---
 title: PHP開発環境構築 MAMP+VSCode+PHP Debugを導入する
 author: なっかあ
-type: post
-date: 2018-12-01T12:51:29+00:00
+type: posts
+date: 2018-12-01T12:51:29+09:00
 url: /labotter-dev-1-build-env/
 categories:
   - Computer

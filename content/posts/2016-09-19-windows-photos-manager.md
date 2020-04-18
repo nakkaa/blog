@@ -1,8 +1,8 @@
 ---
 title: Macの写真アプリのような無料で使えるWindows写真管理アプリを探してみた
 author: なっかあ
-type: post
-date: 2016-09-19T08:00:00+00:00
+type: posts
+date: 2016-09-19T08:00:00+09:00
 url: /windows-photos-manager/
 categories:
   - Mac

@@ -1,8 +1,8 @@
 ---
 title: 「おぎのやの釜飯」の釜でご飯を炊いたら美味しかった
 author: なっかあ
-type: post
-date: 2019-03-12T13:00:27+00:00
+type: posts
+date: 2019-03-12T13:00:27+09:00
 url: /oginoya-kamamesi-kometaita/
 categories:
   - 雑記

@@ -1,8 +1,8 @@
 ---
 title: Ubuntu(Linux)のターミナルを使ってみる
 author: なっかあ
-type: post
-date: 2014-11-21T13:00:59+00:00
+type: posts
+date: 2014-11-21T13:00:59+09:00
 url: /ubuntu_terminal/
 dsq_thread_id:
   - 3655450094

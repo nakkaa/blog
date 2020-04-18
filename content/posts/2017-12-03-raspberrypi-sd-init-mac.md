@@ -1,8 +1,8 @@
 ---
 title: RaspberryPi OS書き込み後のSDカードをMacでフォーマットする方法
 author: なっかあ
-type: post
-date: 2017-12-03T05:28:40+00:00
+type: posts
+date: 2017-12-03T05:28:40+09:00
 url: /raspberrypi-sd-init-mac/
 categories:
   - Mac

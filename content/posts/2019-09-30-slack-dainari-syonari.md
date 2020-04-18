@@ -1,8 +1,8 @@
 ---
 title: SlackのBot開発で大なり小なり記号が拾えずつまずいた話
 author: なっかあ
-type: post
-date: 2019-09-30T12:43:05+00:00
+type: posts
+date: 2019-09-30T12:43:05+09:00
 url: /slack-dainari-syonari/
 categories:
   - プログラミング

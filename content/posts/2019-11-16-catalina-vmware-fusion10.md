@@ -1,8 +1,8 @@
 ---
 title: macOS CatalinaでVMware Fusion10を動かす方法
 author: なっかあ
-type: post
-date: 2019-11-16T09:22:04+00:00
+type: posts
+date: 2019-11-16T09:22:04+09:00
 url: /catalina-vmware-fusion10/
 categories:
   - Mac

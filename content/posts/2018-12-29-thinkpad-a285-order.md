@@ -1,8 +1,8 @@
 ---
 title: ThinkPad A285をほぼ最小構成で注文した
 author: なっかあ
-type: post
-date: 2018-12-29T11:35:41+00:00
+type: posts
+date: 2018-12-29T11:35:41+09:00
 url: /thinkpad-a285-order/
 categories:
   - コンピュータ

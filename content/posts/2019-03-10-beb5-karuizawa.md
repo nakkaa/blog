@@ -1,8 +1,8 @@
 ---
 title: 星野リゾート “BEB5 軽井沢” へ行ってきた感想
 author: なっかあ
-type: post
-date: 2019-03-09T15:02:14+00:00
+type: posts
+date: 2019-03-09T15:02:14+09:00
 url: /beb5-karuizawa/
 categories:
   - 旅行

@@ -1,8 +1,8 @@
 ---
 title: MacでSlackBot開発をしてみた
 author: なっかあ
-type: post
-date: 2019-09-28T14:04:34+00:00
+type: posts
+date: 2019-09-28T14:04:34+09:00
 url: /dev-slackbot/
 categories:
   - プログラミング

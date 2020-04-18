@@ -1,8 +1,8 @@
 ---
 title: ThinkPad A285の起動時にPWMTR64V.dllのエラーが出る
 author: なっかあ
-type: post
-date: 2019-01-14T11:26:58+00:00
+type: posts
+date: 2019-01-14T11:26:58+09:00
 url: /thinkpad-a285-error-pwmtr64-dll/
 categories:
   - Windows

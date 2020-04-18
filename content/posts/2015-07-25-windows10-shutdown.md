@@ -1,8 +1,8 @@
 ---
 title: Windows10をシャットダウンする方法
 author: なっかあ
-type: post
-date: 2015-07-25T01:54:24+00:00
+type: posts
+date: 2015-07-25T01:54:24+09:00
 url: /windows10-shutdown/
 categories:
   - Windows

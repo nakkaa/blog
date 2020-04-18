@@ -1,8 +1,8 @@
 ---
 title: MacのTimeMachineバックアップの頻度を変更する
 author: なっかあ
-type: post
-date: 2018-11-07T13:33:34+00:00
+type: posts
+date: 2018-11-07T13:33:34+09:00
 url: /install-mac-timemachineeditor/
 categories:
   - Mac

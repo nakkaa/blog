@@ -1,8 +1,8 @@
 ---
 title: Androidのjpg画像ファイルがWindowsで開けない
 author: なっかあ
-type: post
-date: 2015-05-05T08:30:13+00:00
+type: posts
+date: 2015-05-05T08:30:13+09:00
 url: /android-jpg-webp/
 categories:
   - コンピュータ

@@ -1,8 +1,8 @@
 ---
 title: Ubuntuのデスクトップの壁紙を変更する
 author: なっかあ
-type: post
-date: 2014-11-08T13:00:35+00:00
+type: posts
+date: 2014-11-08T13:00:35+09:00
 url: /ubuntu_desktop_change/
 categories:
   - Computer

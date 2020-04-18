@@ -1,8 +1,8 @@
 ---
 title: ThinkPad A285が届いたので触った感想を書く
 author: なっかあ
-type: post
-date: 2019-02-10T05:00:29+00:00
+type: posts
+date: 2019-02-10T05:00:29+09:00
 url: /thinkpad-a285-review/
 categories:
   - コンピュータ

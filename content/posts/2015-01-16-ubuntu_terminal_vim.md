@@ -1,8 +1,8 @@
 ---
 title: UbuntuでVimを使ってファイルを編集する
 author: なっかあ
-type: post
-date: 2015-01-16T13:00:22+00:00
+type: posts
+date: 2015-01-16T13:00:22+09:00
 url: /ubuntu_terminal_vim/
 categories:
   - Linux

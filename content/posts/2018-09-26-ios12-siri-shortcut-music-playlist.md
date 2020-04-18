@@ -1,8 +1,8 @@
 ---
 title: iPhoneのSiriショートカットで時間帯によって再生する音楽プレイリストを変える
 author: なっかあ
-type: post
-date: 2018-09-26T12:59:45+00:00
+type: posts
+date: 2018-09-26T12:59:45+09:00
 url: /ios12-siri-shortcut-music-playlist/
 categories:
   - iPhone

@@ -1,8 +1,8 @@
 ---
 title: Macのメールアプリで「Liveメール」を送受信する
 author: なっかあ
-type: post
-date: 2014-08-30T13:00:53+00:00
+type: posts
+date: 2014-08-30T13:00:53+09:00
 url: /mac-use-livemail/
 categories:
   - Mac
