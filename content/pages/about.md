@@ -11,7 +11,7 @@ url: /about/
 ## 管理人プロフィール
 
 なっかあと申します。都内でプログラマをやっています。  
-今はネットワークを制御するソフトウェアの試験を担当しています。UbuntuやPython、Ansible、Dockerに触れることが多いです。
+今は某ソフトウェアの試験を担当しています。UbuntuやPython、Ansible、Dockerに触れることが多いです。
 
   * [Twitter][1]
   * [GitHub][2]
