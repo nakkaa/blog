@@ -27,7 +27,7 @@ googleAnalytics = "UA-47272480-1"
 
     footercontent = "なっかあの個人サイト"
 
-    hidecredits = false
+    hidecredits = true
     hidecopyright = false
 
     rtl = false
