@@ -1,4 +1,4 @@
-baseURL = "https://blog.7ka.org/"
+baseURL = "https://7ka.org/"
 languageCode = "ja"
 title = "としつーる改"
 theme = "hugo-coder"
@@ -8,9 +8,10 @@ uglyurls = false
 
 hasCJKLanguage = true
 summaryLength = 70
+
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-
+pygmentsStyle = "monokai"
 
 [params]
     author = "なっかあ"
@@ -59,14 +60,14 @@ pygmentsUseClasses = true
 
 # Menu links
 [[menu.main]]
-    name = "Software"
+    name = "自作ソフト"
     weight = 3
     url  = "/software/"
 [[menu.main]]
-    name = "Posts"
+    name = "ブログ"
     weight = 2
     url  = "/posts/"
 [[menu.main]]
-    name = "About"
+    name = "自己紹介"
     weight = 1
     url = "/about/"
