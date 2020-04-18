@@ -2,7 +2,6 @@ baseURL = "https://blog.7ka.org/"
 languageCode = "ja"
 title = "としつーる改"
 theme = "hugo-coder"
-copyright = "&copy; 2020 nakkaa"
 disqusShortname = "nakkaa"
 rssLimit = "5"
 uglyurls = false
@@ -11,6 +10,7 @@ hasCJKLanguage = true
 summaryLength = 70
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+
 
 [params]
     author = "なっかあ"
@@ -32,6 +32,8 @@ pygmentsUseClasses = true
     math = true
     custom_css = ["css/custom.css"]
 
+    dateFormat = "2006/01/02"
+
 # Social links
 [[params.social]]
     name = "Github"
@@ -48,6 +50,12 @@ pygmentsUseClasses = true
     icon = "fab fa-twitter fa-2x"
     weight = 2
     url = "https://twitter.com/_nakkaa/"
+
+[[params.social]]
+    name = "RSS"
+    icon = "fas fa-rss fa-2x"
+    weight = 4
+    url = "./index.xml"
 
 # Menu links
 [[menu.main]]
