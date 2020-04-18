@@ -22,7 +22,7 @@ pygmentsUseClasses = true
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "なっかあの個人サイト"
 
     hidecredits = false
     hidecopyright = false
@@ -40,21 +40,25 @@ pygmentsUseClasses = true
     url = "https://github.com/nakkaa/"
 [[params.social]]
     name = "Gitlab"
-    icon = "fab fa-gitlab fa-2x"
-    weight = 2
-    url = "https://gitlab.com/johndoe/"
+    icon = "fab fa-mastodon fa-2x"
+    weight = 3
+    url = "https://ma.fono.jp/@nakkaa/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
-    weight = 3
+    weight = 2
     url = "https://twitter.com/_nakkaa/"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
-    weight = 1
+    name = "Software"
+    weight = 3
+    url  = "/software/"
+[[menu.main]]
+    name = "Posts"
+    weight = 2
     url  = "/posts/"
 [[menu.main]]
     name = "About"
-    weight = 2
+    weight = 1
     url = "/about/"
