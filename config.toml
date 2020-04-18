@@ -1,7 +1,7 @@
 baseURL = "https://blog.7ka.org/"
 languageCode = "ja"
 title = "としつーる改"
-theme = "hugo-primer"
+theme = "hugo-coder"
 copyright = "&copy; 2020 nakkaa"
 disqusShortname = "nakkaa"
 rssLimit = "5"
@@ -13,31 +13,48 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-shareTo = ["Twitter", "Hatena", "Pocket"]
-showFooterCredits = true
-description = "Describe what your web page is about"
-twitter = "_nakkaa"
-#useIcon = true
-useTwitterCard = true
-math = true
+    author = "なっかあ"
+    info = "QAエンジニア"
+    description = "なっかあの個人サイトです。"
+    keywords = "blog,developer,personal,としつーる"
+    avatarurl = "img/avatar.jpg"
 
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
 
-#[permalinks]
-#    post = "/:year/:month/:day/:slug/"
+    footercontent = "Enter a text here."
 
-[frontmatter]
-lastmod = ["lastmod", ":fileModTime", ":default"]
+    hidecredits = false
+    hidecopyright = false
 
-[menu]
+    rtl = false
 
-  [[menu.main]]
-    identifier = "software"
-    name = "Software"
-    url = "/software/"
-    weight = -100
+    math = true
+    custom_css = ["css/custom.css"]
 
-  [[menu.main]]
-    identifier = "about"
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/nakkaa/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab fa-2x"
+    weight = 2
+    url = "https://gitlab.com/johndoe/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/_nakkaa/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
     name = "About"
-    #pre = "<i class='fa fa-heart'></i>"
+    weight = 2
     url = "/about/"
