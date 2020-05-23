@@ -4,6 +4,7 @@ title = "愛嬌のあるSlack用のbot「鳩bot」をリリースした"
 description = "愛嬌のあるSlack用のbot「hato-bot」の正式版をリリースしたのでお知らせします。"
 url = "hato-bot-released" 
 categories = ["リリース情報"]
+tags = ["hato-bot"]
 +++
 
 愛嬌(？)のあるSlack用のbot「鳩bot」をリリースしました。  
