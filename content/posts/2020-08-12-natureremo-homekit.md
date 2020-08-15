@@ -16,7 +16,7 @@ tags = ["docker","raspberry-pi","homebridge"]
 
 完成後のイメージは以下の画像みたいな感じ。
 
-https://twitter.com/_nakkaa/status/1293106528514260992
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">自室のエアコンと照明をiPhoneで操作できるようにした。<br>あとはCO2センサの値も出せるようにしたいが、ここは自分でプラグインを作る必要がありそうだな。 <a href="https://t.co/dNd6elE2MF">pic.twitter.com/dNd6elE2MF</a></p>&mdash; なっかあ (@_nakkaa) <a href="https://twitter.com/_nakkaa/status/1293106528514260992?ref_src=twsrc%5Etfw">August 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 作業環境
 
