@@ -1,29 +1,28 @@
 ---
-title: ロック画面にサヨナラ！
+title: NoLockScreenForWindows
 author: なっかあ
 type: page
-date: 2013-09-15T13:53:44+00:00
+date: 2020-08-28T21:00:00+09:00
 url: /software/nolockscreen8/
 
 ---
-Winodws8以降に搭載されたロック画面をクリック操作だけでサヨナラ(無効化)できるフリーソフトです。  
-無効化したロック画面の有効化もできます。
-  
-以前は「NoLockScreen8」、「NoLockScreen for Windows8」という名前でした。
-  
-![](https://7ka.org/wp-content/uploads/2015/05/nls300.png)
 
-## お知らせ
-
-* 特選街 5月号 (2014年4月3日発売) にて掲載されました
-* 日経PC21 2月号 (2013年12月24日発売) にて掲載されました
+Windows10/8.1のロック画面を1クリックで無効化(有効化)できるソフトウェアです。  
+レジストリをいじる必要はありません。
+  
+![image](https://github.com/nakkaa/NoLockScreenForWindows/blob/master/nls.png?raw=true)
 
 ## 動作環境
 
-Windows 8 以降(Windows10で確認済み)
+* Windows 10または8.1
+* .NET Framework 4.6が必須
 
 ## ダウンロード
 
-Version 3.0 (2015/05/10)
+最新版のダウンロードはGitHubのreleasesページからできます。  
+[nakkaa/NoLockScreenForWindows: Windows10と8.1のロック画面を無効化(または有効化)するソフトウェアです。](https://github.com/nakkaa/NoLockScreenForWindows)
 
-[Vectorからダウンロード](https://www.vector.co.jp/soft/winnt/util/se504289.html)
+## 掲載履歴
+
+* 特選街 5月号 (2014年4月3日発売) にて掲載されました
+* 日経PC21 2月号 (2013年12月24日発売) にて掲載されました
