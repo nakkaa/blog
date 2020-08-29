@@ -17,15 +17,15 @@ googleAnalytics = "UA-47272480-1"
 
 [params]
     author = "なっかあ"
-    info = "プログラマのような何か"
-    description = "なっかあの個人サイトです。"
+    info = "思いつきをコードに落とせるプログラマになりたい"
+    description = "なっかあの個人サイトです。コンピュータ関係のメモ書きや、自作ソフトウェアの配布を行っています。"
     keywords = "blog,developer,personal,としつーる"
     avatarurl = "img/avatar.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "なっかあの個人サイト"
+    footercontent = "コンピュータ関係のメモ書きや、自作ソフトウェアの配布をしているサイト"
 
     hidecredits = true
     hidecopyright = false
@@ -44,7 +44,7 @@ googleAnalytics = "UA-47272480-1"
     weight = 1
     url = "https://github.com/nakkaa/"
 [[params.social]]
-    name = "Gitlab"
+    name = "Mastodon"
     icon = "fab fa-mastodon fa-2x"
     weight = 3
     rel = "me"
