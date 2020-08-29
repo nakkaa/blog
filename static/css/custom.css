@@ -68,3 +68,11 @@ h1, h2{
     width: auto;
     border: 1px solid #ddd;
 }
+
+.sns{
+    list-style: none;
+}
+
+.sns li{
+    display: inline-block;
+}
