@@ -47,6 +47,7 @@ googleAnalytics = "UA-47272480-1"
     name = "Gitlab"
     icon = "fab fa-mastodon fa-2x"
     weight = 3
+    rel = "me"
     url = "https://ma.fono.jp/@nakkaa/"
 [[params.social]]
     name = "Twitter"
