@@ -43,12 +43,13 @@ googleAnalytics = "UA-47272480-1"
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/nakkaa/"
+
 [[params.social]]
-    name = "Mastodon"
-    icon = "fab fa-mastodon fa-2x"
-    weight = 3
-    rel = "me"
-    url = "https://ma.fono.jp/@nakkaa/"
+    name = "Unsplash"
+    icon = "fas fa-camera fa-2x"
+    weight = 2
+    url = "https://unsplash.com/@nakkaa"
+
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
