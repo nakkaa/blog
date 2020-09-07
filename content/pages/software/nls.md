@@ -19,8 +19,9 @@ Windows10/8.1のロック画面を1クリックで無効化(有効化)できる�
 
 ## ダウンロード
 
-最新版のダウンロードはGitHubのreleasesページからできます。  
-[nakkaa/NoLockScreenForWindows: Windows10と8.1のロック画面を無効化(または有効化)するソフトウェアです。](https://github.com/nakkaa/NoLockScreenForWindows)
+最新版のダウンロードはVectorまたはGitHubのreleasesページからできます。  
+[Vector](https://www.vector.co.jp/soft/winnt/util/se504289.html) 
+| [GitHub](https://github.com/nakkaa/NoLockScreenForWindows)
 
 ## 掲載履歴
 

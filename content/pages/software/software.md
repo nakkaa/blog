@@ -22,4 +22,4 @@ url: /software/
 * [らぼったあ](/software/labotter) ... Twitter連動型らぼの入退室管理記録ツール
 * [F9サイトタイトル取得](/software/f9stg) ... クリップボードのURLをページタイトルへ置換
 * [F10貼り付けずにググる](/software/f10ggr) ... クリップボードのテキストをF10キーを押してググる
-* [ロック画面にさよなら](/software/nolockscreen8) ... Windows8以降のロック画面を無効化するツール
+* [NoLockScreenForWindows](/software/nolockscreen8) ... Windows10/8.1のロック画面を1クリックで無効化する
