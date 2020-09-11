@@ -1,5 +1,6 @@
 baseURL = "https://7ka.org/"
-languageCode = "ja"
+defaultContentLanguage = "ja"
+languageCode = "ja-jp"
 title = "としつーる改"
 theme = "hugo-coder"
 disqusShortname = "nakkaa"
