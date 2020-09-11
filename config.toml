@@ -15,6 +15,20 @@ pygmentsStyle = "monokai"
 
 googleAnalytics = "UA-47272480-1"
 
+# 関連記事を出す
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+
+[[related.indices]]
+  name = "tags"
+  weight = 40
+
+[[related.indices]]
+  name = "categories"
+  weight = 60
+
 [params]
     author = "なっかあ"
     info = "思いつきをコードに落とせるプログラマになりたい"
