@@ -4,7 +4,7 @@ title = "WSL2のUbuntuでDockerを動かす"
 url = "run-docker-on-wsl2"
 description = ""
 categories = ["computer"]
-tags = ["docker","ubuntu","windows10","wsl2"]
+tags = ["Docker","Ubuntu","Windows10","WSL2"]
 +++
 
 * WSL2(Windows Subsystem for Linux)のUbuntuでDockerを動かす方法のメモ書きです。

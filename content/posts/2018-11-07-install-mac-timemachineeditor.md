@@ -8,7 +8,7 @@ categories:
   - Computer
 tags:
   - macOS
-  - macApps
+  - macApp
 
 ---
 MacのTimeMachineのバックアップ頻度を変更するため、「TimeMachineEditor」というアプリを導入しました。
