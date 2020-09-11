@@ -69,10 +69,65 @@ h1, h2{
     border: 1px solid #ddd;
 }
 
-.sns{
-    list-style: none;
+/*SNS*/
+.sns_parent {
+    text-align: center;
+}
+  
+.sns_section {
+    display: inline-block;
+    text-align: left;
 }
 
-.sns li{
-    display: inline-block;
+.sns_button {
+    float: left;
+}
+
+.sns_button a {
+    display: table-cell;
+    width: 84px;
+    height: 44px;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.sns_button i {
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.sns_button + .sns_button {
+    margin: 0 0 0 14px;
+}
+
+.twitter a{
+    background-color: #1B95E0;
+}
+
+.pocket a {
+    background-color: #EE4056;
+}
+
+.hatena a {
+    background-color: #4BA3D9;
+}
+
+.share-url{
+    display: table-cell;
+    width: 84px;
+    height: 44px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: none;
+    background: none;
+    background-color: #42464c;
+    color:#fff;
+}
+
+.fa-hatena:before {
+    content: "B!";
+    font-family: Verdana;
+    font-weight: bold
 }
