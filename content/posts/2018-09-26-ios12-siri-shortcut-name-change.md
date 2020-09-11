@@ -5,8 +5,10 @@ type: posts
 date: 2018-09-26T11:46:14+09:00
 url: /ios12-siri-shortcut-name-change/
 categories:
-  - iPhone
+  - Computer
 tags:
+  - iOS
+  - iPhone
   - Siriショートカット
 
 ---

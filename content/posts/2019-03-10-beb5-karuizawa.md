@@ -5,7 +5,9 @@ type: posts
 date: 2019-03-09T15:02:14+09:00
 url: /beb5-karuizawa/
 categories:
-  - 旅行
+  - Blog
+tags:
+  - Travel
 
 ---
 利用者全員が35歳以下であれば1泊1室1万6000円で宿泊できるとTwitterで話題になっていた「BEB5 軽井沢」(ベブファイブ カルイザワ)へ行ってきました。

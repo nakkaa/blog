@@ -5,9 +5,10 @@ type: posts
 date: 2019-11-16T09:22:04+09:00
 url: /catalina-vmware-fusion10/
 categories:
-  - Mac
   - Computer
-
+tags:
+  - macOS
+  - macApp
 ---
  
 

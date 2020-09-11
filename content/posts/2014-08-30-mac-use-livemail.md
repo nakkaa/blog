@@ -5,8 +5,9 @@ type: posts
 date: 2014-08-30T13:00:53+09:00
 url: /mac-use-livemail/
 categories:
-  - Mac
-
+  - Computer
+tags:
+  - macos
 ---
 Macにデフォルトで入っているメールアプリで、Microsoftが提供している「Liveメール」(今はoutlook.comだけど)を受信したい。
   

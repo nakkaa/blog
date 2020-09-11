@@ -1,12 +1,13 @@
 ---
-title: Macの写真アプリのような無料で使えるWindows写真管理アプリを探してみた
+title: Macの写真アプリのような無料で使えるWindows写真管理アプリを探す
 author: なっかあ
 type: posts
 date: 2016-09-19T08:00:00+09:00
 url: /windows-photos-manager/
 categories:
-  - Mac
-
+  - Computer
+tags:
+  - macOS
 ---
 Macには「写真アプリ」という写真管理アプリがデフォルトで入っています。  
 写真ごとにキーワード(ブログのタグのようなもの)の設定ができ、アルバムという機能で行事ごとに写真を整理でき、一眼レフのRAW形式のデータも扱えます。

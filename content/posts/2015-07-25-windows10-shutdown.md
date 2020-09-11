@@ -5,7 +5,7 @@ type: posts
 date: 2015-07-25T01:54:24+09:00
 url: /windows10-shutdown/
 categories:
-  - Windows
+  - Computer
 tags:
   - Windows10
 

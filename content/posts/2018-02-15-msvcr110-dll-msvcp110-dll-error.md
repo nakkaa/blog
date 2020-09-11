@@ -5,8 +5,9 @@ type: posts
 date: 2018-02-15T13:18:47+09:00
 url: /msvcr110-dll-msvcp110-dll-error/
 categories:
-  - Windows
-
+  - Computer
+tags:
+  - Windows10
 ---
 ## 事象
 

@@ -4,11 +4,10 @@ author: なっかあ
 type: posts
 date: 2014-11-21T13:00:59+09:00
 url: /ubuntu_terminal/
-dsq_thread_id:
-  - 3655450094
 categories:
-  - Linux
+  - Computer
 tags:
+  - Linux
   - Ubuntu
 
 ---

@@ -1,12 +1,14 @@
 ---
-title: DeskMini A300(Athlon 200GE/メモリ 8GB/NVMe SSD)を購入したが起動できなかった話
+title: DeskMini A300を購入したが起動できなかった話
 author: なっかあ
 type: posts
 date: 2019-12-30T15:06:35+09:00
 url: /deskmini-a300-not-run/
 categories:
   - Computer
-
+tags:
+  - DeskMini
+  - A300
 ---
 秋葉原のTSUKUMOでASRockのDeskMini A300を買いました。しかし、電源ボタンを押してもLEDランプが点灯せず起動しなかったためセットアップを諦めることにしました。
 

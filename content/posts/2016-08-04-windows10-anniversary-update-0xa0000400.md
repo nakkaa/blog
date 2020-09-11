@@ -7,7 +7,7 @@ url: /windows10-anniversary-update-0xa0000400/
 dsq_thread_id:
   - 5777962583
 categories:
-  - Windows
+  - Computer
 tags:
   - Windows10
 

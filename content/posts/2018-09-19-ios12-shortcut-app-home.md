@@ -5,9 +5,10 @@ type: posts
 date: 2018-09-19T12:25:06+09:00
 url: /ios12-shortcut-app-home/
 categories:
-  - iPhone
+  - Computer
 tags:
-  - iOS12
+  - iOS
+  - iPhone
   - Siriショートカット
 
 ---

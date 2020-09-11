@@ -5,9 +5,10 @@ type: posts
 date: 2018-09-26T12:59:45+09:00
 url: /ios12-siri-shortcut-music-playlist/
 categories:
-  - iPhone
+  - Computer
 tags:
-  - iOS12
+  - iPhone
+  - iOS
   - Siriショートカット
 
 ---

@@ -5,9 +5,10 @@ type: posts
 date: 2015-01-16T13:00:22+09:00
 url: /ubuntu_terminal_vim/
 categories:
-  - Linux
+  - Computer
 tags:
   - Ubuntu
+  - Linux
 
 ---
 

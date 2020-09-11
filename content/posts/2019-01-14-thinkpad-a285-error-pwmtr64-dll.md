@@ -5,8 +5,10 @@ type: posts
 date: 2019-01-14T11:26:58+09:00
 url: /thinkpad-a285-error-pwmtr64-dll/
 categories:
-  - Windows
+  - Computer
 tags:
+  - Windows10
+  - ThinkPad
   - A285
 
 ---

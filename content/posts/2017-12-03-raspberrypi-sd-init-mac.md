@@ -5,8 +5,9 @@ type: posts
 date: 2017-12-03T05:28:40+09:00
 url: /raspberrypi-sd-init-mac/
 categories:
-  - Mac
-
+  - Computer
+tags:
+  - macos
 ---
 Raspberry Piで使っていたSDカードをフォーマットする方法です。
 

@@ -5,8 +5,10 @@ type: posts
 date: 2019-09-28T14:04:34+09:00
 url: /dev-slackbot/
 categories:
-  - プログラミング
-
+  - Computer
+tags:
+  - Python
+  - Slack
 ---
 PythonでSlackのBotを作りたくなり、環境構築から実際に動作確認するまでやってみました。  
 ちなみにこの記事は [PythonのslackbotライブラリでSlackボットを作る &#8211; Qiita][1] を参考に実施しました。リンク先のページに詳しい説明がされています。

@@ -1,10 +1,10 @@
 +++ 
 date = 2020-08-30T17:24:07+09:00
-title = "macOS CatalinaでSSH接続が失敗(client_loop: send disconnect: Broken pipe)する"
+title = "macOSでSSH接続が失敗(client_loop: send disconnect: Broken pipe)する"
 url = "cant-connect-ssh-macos"
 description = "macOS Catalinaでssh接続すると、client_loop: send disconnect: Broken pipeが発生したので解決策を書く。"
-categories = ["computer","mac"]
-tags = ["macos","ssh",]
+categories = ["Computer"]
+tags = ["macOS","SSH",]
 +++
 
 macOS Catalinaでssh接続すると、 `client_loop: send disconnect: Broken pipe` が発生しSSH接続が

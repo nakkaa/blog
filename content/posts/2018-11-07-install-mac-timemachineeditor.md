@@ -5,9 +5,10 @@ type: posts
 date: 2018-11-07T13:33:34+09:00
 url: /install-mac-timemachineeditor/
 categories:
-  - Mac
+  - Computer
 tags:
   - macOS
+  - macApps
 
 ---
 MacのTimeMachineのバックアップ頻度を変更するため、「TimeMachineEditor」というアプリを導入しました。

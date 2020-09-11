@@ -3,7 +3,7 @@ date = 2020-08-10T13:31:47+09:00
 title = "「らぼったあ」派生版をまとめてみた"
 url = "other-labotter-implements"
 description = "他の方が実装した派生版「らぼったあ」のまとめ記事です。"
-categories = ["雑記"]
+categories = ["Blog"]
 tags = ["らぼったあ"]
 +++
 
