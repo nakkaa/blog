@@ -5,7 +5,7 @@ type: posts
 date: 2015-05-05T08:30:13+09:00
 url: /android-jpg-webp/
 categories:
-  - コンピュータ
+  - Computer
 tags:
   - Android
 

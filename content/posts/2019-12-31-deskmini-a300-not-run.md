@@ -5,7 +5,7 @@ type: posts
 date: 2019-12-30T15:06:35+09:00
 url: /deskmini-a300-not-run/
 categories:
-  - コンピュータ
+  - Computer
 
 ---
 秋葉原のTSUKUMOでASRockのDeskMini A300を買いました。しかし、電源ボタンを押してもLEDランプが点灯せず起動しなかったためセットアップを諦めることにしました。

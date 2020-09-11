@@ -3,7 +3,7 @@ date = 2020-05-23T20:05:45+09:00
 title = "Slack Bot「鳩bot」 v1.0.3をリリースした"
 description = "愛嬌のあるSlack用のbot「hato-bot」のv1.0.3をリリースしたのでお知らせします。"
 url = "hato-bot-103-released" 
-categories = ["リリース情報"]
+categories = ["Release"]
 tags = ["hato-bot"]
 +++
 

@@ -4,7 +4,7 @@ title = "8年間お世話になったWordPressからHugoへ移行した"
 description = "WordPressからHugoへ移行したので、移行に伴う変更点、移行した理由、移行時の作業内容、移行後のメリットデメリットの4点について書こうと思います。"
 url = "migrate-from-wp-to-hugo" 
 tags = ["Hugo"]
-categories = ["Notes"]
+categories = ["Blog"]
 +++
 
 このサイトをWordPressから[Hugo](https://gohugo.io)へ移行しました。  

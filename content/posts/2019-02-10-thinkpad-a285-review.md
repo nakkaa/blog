@@ -5,7 +5,7 @@ type: posts
 date: 2019-02-10T05:00:29+09:00
 url: /thinkpad-a285-review/
 categories:
-  - コンピュータ
+  - Computer
 tags:
   - A285
   - ThinkPad

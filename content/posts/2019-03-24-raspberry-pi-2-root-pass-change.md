@@ -5,7 +5,7 @@ type: posts
 date: 2019-03-24T08:29:37+09:00
 url: /raspberry-pi-2-root-pass-change/
 categories:
-  - コンピュータ
+  - Computer
 tags:
   - Raspberry Pi
 

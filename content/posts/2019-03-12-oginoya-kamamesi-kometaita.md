@@ -5,7 +5,7 @@ type: posts
 date: 2019-03-12T13:00:27+09:00
 url: /oginoya-kamamesi-kometaita/
 categories:
-  - 雑記
+  - Blog
 
 ---
 「おぎのやの釜飯」をご存知でしょうか。  

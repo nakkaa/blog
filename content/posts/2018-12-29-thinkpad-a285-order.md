@@ -5,7 +5,7 @@ type: posts
 date: 2018-12-29T11:35:41+09:00
 url: /thinkpad-a285-order/
 categories:
-  - コンピュータ
+  - Computer
 tags:
   - A285
   - ThinkPad
