@@ -2,7 +2,7 @@
 date = 2020-09-12T17:10:22+09:00
 title = "Hugo Coderで関連記事を表示する"
 url = "hugo-coder-related-page"
-description = ""
+description = "Hugo Coderで関連記事を表示する"
 categories = ["blog"]
 tags = ["hugo"]
 +++
