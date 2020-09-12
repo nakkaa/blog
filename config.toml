@@ -1,7 +1,7 @@
 baseURL = "https://7ka.org/"
 defaultContentLanguage = "ja"
 languageCode = "ja-jp"
-title = "としつーる改"
+title = "としつーる"
 theme = "hugo-coder"
 disqusShortname = "nakkaa"
 rssLimit = "5"
@@ -15,6 +15,12 @@ pygmentsUseClasses = true
 pygmentsStyle = "monokai"
 
 googleAnalytics = "UA-47272480-1"
+
+enableGitInfo = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 # 関連記事を出す
 [related]
@@ -36,8 +42,8 @@ googleAnalytics = "UA-47272480-1"
 
 [params]
     author = "なっかあ"
-    info = "思いつきをコードに落とせるプログラマになりたい"
-    description = "なっかあの個人サイトです。コンピュータ関係のメモ書きや、自作ソフトウェアの配布を行っています。"
+    info = "週末プログラマ"
+    description = "なっかあの個人サイトです。コンピュータ関係のメモ書きと自作ソフトウェアの配布を行っています。"
     keywords = "blog,developer,personal,としつーる"
     avatarurl = "img/avatar.jpg"
     images = ["img/avatar.jpg"]
@@ -45,10 +51,11 @@ googleAnalytics = "UA-47272480-1"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "コンピュータ関係のメモ書きや、自作ソフトウェアの配布をしているサイト"
+    footercontent = "コンピュータ関係のメモ書きと自作ソフトウェアの配布サイト"
 
-    hidecredits = true
+    hidecredits = false
     hidecopyright = false
+    #commit = "https://github.com/nakkaa/blog/commit/"
 
     rtl = false
 

@@ -131,3 +131,22 @@ h1, h2{
     font-family: Verdana;
     font-weight: bold
 }
+
+.tax-section{
+    display: inline-block;
+    text-align: left;
+    clear: both;
+}
+
+.tax {
+    float: left;
+}
+
+.tax a{ 
+    display: table-cell;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+    border: none;
+    background: none;
+}
