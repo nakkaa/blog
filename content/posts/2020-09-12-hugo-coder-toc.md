@@ -1,8 +1,8 @@
 +++ 
 date = 2020-09-12T15:15:46+09:00
-title = "Hugo Coderに目次(ToC)を実装する"
+title = "Hugo Coderに目次(ToC)を追加する"
 url = "hugo-coder-toc"
-description = "Hugoに目次(ToC)を追加しました。"
+description = "Hugoに目次(ToC)を表示するようにしました。"
 categories = ["blog"]
 tags = ["hugo"]
 +++
