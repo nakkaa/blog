@@ -64,15 +64,13 @@ Enter same passphrase again:
 ## 公開鍵の登録
 
 続いてBitbucketに公開鍵を登録します。  
-まずは先ほど作成した公開鍵の値をコピーします。
+まずは先ほど作成した公開鍵の値をコピーします。  
 
 ```sh
-cat ~/.ssh/bitbucket_key.pub 
+cat ~/.ssh/bitbucket_key.pub | pbcopy
 ```
 
-ターミナルに表示された文字列を最初から最後まで一文字も漏れないようにコピーします。
-
-コピーしたら、ブラウザで[アカウント設定 — Bitbucket](https://bitbucket.org/account/settings/)を開きます。  
+ブラウザで[アカウント設定 — Bitbucket](https://bitbucket.org/account/settings/)を開きます。  
 左下の「SSH 鍵」をクリックします。  
 「鍵を追加」ボタンをクリックし、 `key` 部分に先ほどコピーした公開鍵の文字列を貼り付けます。  
 「鍵の追加」ボタンをクリックすれば完了です。
@@ -113,3 +111,7 @@ Receiving objects: 100% (4/4), done.
 ## 参考サイト
 
 - [GitHub に SSH で接続する \- GitHub Docs](https://docs.github.com/ja/github/authenticating-to-github/connecting-to-github-with-ssh)
+
+## 修正履歴
+
+- マウスでコピーするより、pbcopy使った方が楽ですね。情報提供ありがとうございます。pbcopyを使う手順に修正しました。(2020/09/15)
