@@ -16,6 +16,11 @@ tags:
 
 **実行は自己責任でお願いします。以下の手順を実施することにより発生した損害について私は一切の責任を負いません。**
 
+2020年9月22日 追記:  
+2020年9月に非商用目的ならば無償で使えるVMware Fusion 12 Playerがリリースされました。  
+もし、個人利用ならばVMware Fusion 12を使うことをお勧めします。  
+[無償になったVMware Fusion 12 PlayerをmacOSにインストールした · としつーる](https://7ka.org/vmware-fusion-12-player-install-mac/)
+
 ## 動作環境
 
   * macOS Catalina 10.15.1 (19B88)
