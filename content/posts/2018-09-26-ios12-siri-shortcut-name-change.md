@@ -1,9 +1,10 @@
 ---
-title: Siriショートカットの名前を変更する
+title: iOS14のSiriショートカットの名前を変更する
 author: なっかあ
 type: posts
 date: 2018-09-26T11:46:14+09:00
 url: /ios12-siri-shortcut-name-change/
+description: "iPhone(iOS14)のSiriショートカットの名前を変更する方法を紹介します。"
 categories:
   - Computer
 tags:
@@ -34,7 +35,7 @@ Siriショートカットで作ったショートカットの名前を変える�
 1. ショートカット名の右側にある三点アイコンをタップします。  
 ![image](/img/post/20200929-2-siri.png)
 
-1. 「ショートカット名」をタップし編集します。   
+1. 「ショートカット名」をタップし編集します。  
 ![image](/img/post/20200929-3-siri.png)
 
 1. ショートカット名が変わったことを確認し、「完了」をタップします。  
