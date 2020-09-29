@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>鳩は唐揚げ</title>
+        <style type="text/css">
+        </style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-47272480-16"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-47272480-16');
+</script>
+
+    </head>
+    <h1>鳩は唐揚げ</h1>
+    <body onload="draw();">
+        <div>
+            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="鳩は唐揚げ" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+        <div>
+            <canvas id="canvas" width="640" height="480"></canvas>
+        </div>
+        <div>
+            <p><a href="https://github.com/nakkaa/hato">GitHub</a></p>
+        </div>
+        
+        <audio id="bgm" preload="auto">
+            <source src="./img/chicken-cry1.mp3" type="audio/mp3">
+        </audio>
+
+    </body>
+    <script type="application/javascript">
+        function draw() {
+            var canvas = document.getElementById("canvas").getContext('2d');
+            var img = new Image();
+            img.onload = function(){
+                canvas.drawImage(img,0,0,640,480);
+            };
+            img.src = './img/before_hato.jpg';
+
+        }
+        function onClick(e) {
+            var canvas = document.getElementById("canvas").getContext('2d');
+            var img2 = new Image();
+            img2.onload = function(){
+                canvas.drawImage(img2,0,0,640,480);
+            };
+            img2.src = './img/after_hato.jpg';
+            document.getElementById('bgm').play() ;
+        }
+        canvas.addEventListener('click', onClick, false);
+    </script>
+</html>
