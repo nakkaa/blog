@@ -4,16 +4,17 @@ author: なっかあ
 type: page
 date: 2016-07-18T06:37:46+00:00
 url: /software/labotter/
+images: ["/img/wp/ltr110.png"]
 
 ---
 ラボ(研究室)の入退室時刻を記録＆ツイートするWindowsアプリケーションです。
 
-![](/img/wp/ltr110.png)
+![image](/img/wp/ltr110.png)
 
 ## 動作環境
 
-  * Windows 8.1/10
-  * macOS 10.12 Sierra (Wineをインストールすれば動作します)
+* Windows 8.1/10
+* macOS 10.12 Sierra (Wineをインストールすれば動作します)
 
 ## ダウンロード
 
