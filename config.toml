@@ -92,14 +92,21 @@ enableGitInfo = true
 
 # Menu links
 [[menu.main]]
-    name = "自作ソフトウェア"
-    weight = 3
-    url  = "/software/"
-[[menu.main]]
-    name = "ブログ"
-    weight = 2
-    url  = "/posts/"
-[[menu.main]]
     name = "サイトについて"
     weight = 1
     url = "/about/"
+
+[[menu.main]]
+    name = "自己紹介"
+    weight = 2
+    url = "/about/nakkaa/"
+
+[[menu.main]]
+    name = "ブログ"
+    weight = 3
+    url  = "/posts/"
+
+[[menu.main]]
+    name = "自作ソフトウェア"
+    weight = 4
+    url  = "/software/"
