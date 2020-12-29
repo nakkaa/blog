@@ -105,6 +105,10 @@ h1, h2{
     background-color: #1B95E0;
 }
 
+.mastodon a{
+    background-color: #4987ce;
+}
+
 .pocket a {
     background-color: #EE4056;
 }
