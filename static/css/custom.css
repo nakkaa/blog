@@ -154,3 +154,15 @@ h1, h2{
     border: none;
     background: none;
 }
+
+/* tippage kiji list*/
+.my-parts ul {
+	list-style: none;
+	display: block;
+        text-align:left;
+}
+
+.centered .about .my-parts ul li{
+    display: block;
+}
+   
