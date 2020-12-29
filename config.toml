@@ -42,6 +42,7 @@ enableGitInfo = true
 
 [params]
     author = "なっかあ"
+    authorurl = "https://7ka.org/about/nakkaa/"
     info = "週末プログラマ"
     description = "なっかあの個人サイトです。コンピュータ関係のメモ書きと自作ソフトウェアの配布を行っています。"
     keywords = "blog,developer,personal,としつーる"
@@ -53,7 +54,7 @@ enableGitInfo = true
 
     footercontent = "コンピュータ関係のメモ書きと自作ソフトウェアの配布サイト"
 
-    hidecredits = false
+    hidecredits = true
     hidecopyright = false
     #commit = "https://github.com/nakkaa/blog/commit/"
 
@@ -91,7 +92,7 @@ enableGitInfo = true
 
 # Menu links
 [[menu.main]]
-    name = "自作ソフト"
+    name = "自作ソフトウェア"
     weight = 3
     url  = "/software/"
 [[menu.main]]
@@ -99,6 +100,6 @@ enableGitInfo = true
     weight = 2
     url  = "/posts/"
 [[menu.main]]
-    name = "自己紹介"
+    name = "サイトについて"
     weight = 1
     url = "/about/"
